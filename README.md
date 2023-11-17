@@ -8,7 +8,7 @@ I am currently studying a Master's in Business Analytics and Big Data at IE Univ
 
 ## Skills
 
-- Python
+- Python <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100">
 - SQL
 - Mosel
 - Advanced Excel
