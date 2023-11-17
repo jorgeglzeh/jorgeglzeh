@@ -8,16 +8,15 @@ I am currently studying a Master's in Business Analytics and Big Data at IE Univ
 
 ## Skills
 
-- Python <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100">
+- Python '''<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100">'''
 - SQL
 - Mosel
 - Advanced Excel
 
 ## Projects
 
-AI Hackathon.
 
-### Project 1
+### AI Hackathon
 
 Participated in an AI hackathon. The task was to analyze term sheets with the use of LLM and computer vision to scan multiple pdf documents.
 
