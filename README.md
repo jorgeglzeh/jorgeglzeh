@@ -52,8 +52,8 @@ If you have a blog or write articles, you can provide a link to your blog.
 
 I have been playing tennis for 10 years and now playing padel.
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=jorgeglzeh&color=brightgreen)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgeglzeh&show_icons=true&count_private=true)
 
 
 Thanks for stopping by! I'm excited to connect with you and explore the world of code together.
