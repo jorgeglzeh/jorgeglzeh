@@ -34,7 +34,7 @@ Description of the project. [Link to the project]
 Feel free to reach out to me. Here are some ways to contact me:
 
 - Email: jorge.gonzalezeh@student.ie.edu
-- LinkedIn: https://www.linkedin.com/in/jorge-gonz%C3%A1lez-ehlinger
+- LinkedIn: www.linkedin.com/in/jorge-gonzalez-ehlinger
 
 ## Resume
 
