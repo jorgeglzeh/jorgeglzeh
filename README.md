@@ -20,13 +20,13 @@ I am currently studying a Master's in Business Analytics and Big Data at IE Univ
 
 Participated in an AI hackathon. The task was to analyze term sheets with the use of LLM and computer vision to scan multiple pdf documents.
 
-### Project 2
+### Detecting Smokers using Bio-Signals
 
-Description of the project. [Link to the project]
+In this project I entered a Kaggle competition where the task was to idetify smokers using Machine Learning and Bio Signals 
 
-### Project 3
+### Computer Vision
 
-Description of the project. [Link to the project]
+Currently working on a computer vision project...
 
 ## Contact
 
@@ -34,18 +34,6 @@ Feel free to reach out to me. Here are some ways to contact me:
 
 - Email: jorge.gonzalezeh@student.ie.edu
 - LinkedIn: www.linkedin.com/in/jorge-gonzalez-ehlinger
-
-## Resume
-
-If you have an online resume, you can provide a link here.
-
-[Link to Resume]
-
-## Blog
-
-If you have a blog or write articles, you can provide a link to your blog.
-
-[Link to Blog]
 
 ## Fun Facts
 
